@@ -2,8 +2,8 @@
   "name": "react-card-brand",
   "version": "0.1.6",
   "author": {
-    "name": "Javier Diaz Chamorro",
-    "email": "hey@coderdiaz.dev"
+    "name": "Anvaar Baig",
+    "email": "anvaarkv.@gmail.com"
   },
   "scripts": {
     "start": "tsc -w",
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderdiaz/react-card-brand.git"
+    "url": "git+https://github.com/anvaarkv/react-card-brand.git"
   },
   "bugs": {
-    "url": "https://github.com/coderdiaz/react-card-brand/issues"
+    "url": "https://github.com/anvaarkv/react-card-brand/issues"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
